@@ -1,6 +1,6 @@
-# Linux System & Network Configuration – IE2012 Project
+# Linux System & Network Configuration Project
 
-This repository contains the coursework for the Systems and Network Programming module (IE2012). It focuses on configuring and managing Linux systems through practical tasks in a virtualized environment.
+This repository contains an assignment for the Systems and Network Programming module (IE2012). It focuses on configuring and managing Linux systems through practical tasks in a virtualized environment.
 
 ## Project Overview
 
