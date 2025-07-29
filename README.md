@@ -36,7 +36,7 @@ This project provides hands-on experience with essential Linux system administra
 - Define ACL rules for specific access control scenarios
 
 ### 4. Security Best Practices
-- Apply 5 recommended security practices post Linux installation
+- Apply 5 recommended security practices.
 
 ## Tools & Technologies
 
@@ -50,5 +50,4 @@ This project provides hands-on experience with essential Linux system administra
 
 ## Deliverables
 
--  A fully configured Linux VM image
 -  A detailed report explaining all steps and configurations 
